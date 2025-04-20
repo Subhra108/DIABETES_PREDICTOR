@@ -53,8 +53,4 @@ Machine learning has proven to be an effective tool for predicting diabetes. Wit
 
 ## References
 - UCI Machine Learning Repository: Pima Indian Diabetes Dataset
-<<<<<<< HEAD
 - Research papers on diabetes prediction using machine learning
-=======
-- Research papers on diabetes prediction using machine learning
->>>>>>> 909cd2f56f0058dda27aa9101ddc87786f218cf6
